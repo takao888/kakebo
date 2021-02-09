@@ -14,6 +14,6 @@
 | ----------- | ------- | ----------- |
 | category_id | integer | null: false |
 | memo        | text    |             |
-| date        | date    | null:false  |
+| day         | date    | null:false  |
 | amount      | string  | null: false |
 
